@@ -10,6 +10,8 @@ create aws key and code using IAM role
 
 go to streamlit . 
 
+selected python version 3.9 in strealit while deploying (in general setting tab)
+
 add aws key and id in secrets configuration of app.
 
 deploy it using sreamlit app .
