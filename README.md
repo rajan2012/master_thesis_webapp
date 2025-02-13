@@ -4,11 +4,13 @@
 
 fork this repo 
 
-upload file in aws and change file directory(give aws folder name) in all.py python file which has main function.
+upload file in aws in s3  and change file directory(replace aws folder name of mine with yours) in all.py python file which has main function.
 
 create aws key and code using IAM role
 
 go to streamlit . 
+
+add aws key and id in secrets configuration of app.
 
 deploy it using sreamlit app .
 
