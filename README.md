@@ -7,7 +7,7 @@ This is webapp i developed
 
 fork this repo 
 
-upload file in aws in s3  and change file directory(replace aws folder name of mine with yours) in all.py python file which has main function.
+upload file in aws in s3  and change file directory(replace aws folder name of mine with yours) bucket_name in all.py python file which has main function.
 
 create aws key and code using IAM role
 
